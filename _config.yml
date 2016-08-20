@@ -1,15 +1,14 @@
-typography_spectrum: 0.1857836884446442
+layout_spectrum: 0.7222348395735025
+typography_spectrum: 0.9365356895141304
 color:
-  brandStrength: 0.7816649824380875
-  lightness: 0.41674657561816275
-  saturation: 0.9072196821216494
-  rhythmicContrast: 0.13445627433247864
+  brandStrength: 0.7162689249962568
+  lightness: 0.47625703644007444
+  saturation: 0.8415068893227726
+  rhythmicContrast: 0.2263510636985302
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-layout_spectrum: 0.8896922545973212
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
 name: goldfoot
-title: tnemirepxE IA s'leoJ
