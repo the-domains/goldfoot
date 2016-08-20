@@ -1,0 +1,14 @@
+layout_spectrum: 0.8896922545973212
+typography_spectrum: 0.1857836884446442
+color:
+  brandStrength: 0.7816649824380875
+  lightness: 0.41674657561816275
+  saturation: 0.9072196821216494
+  rhythmicContrast: 0.13445627433247864
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: goldfoot
